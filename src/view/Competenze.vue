@@ -16,11 +16,11 @@ import BodyComponentVue from "../components/BodyComponent.vue";
           esprimere il loro potenziale. <br>
 
           Nel mio approccio educativo, applico i principi della didattica STEAM (Science, Technology, Engineering, Arts,
-          and Mathematics) per promuovere un apprendimento interdisciplinare e pratico. Utilizzo progetti che combinano
+          and Mathematics) per promuovere un apprendimento interdisciplinare e pratico. Utilizzo Multidisciplinari che combinano
           scienza, tecnologia e arte per sviluppare competenze critiche e creative negli studenti. Attraverso attività
           di coding, robotica, e creazione multimediale, incoraggio gli studenti a esplorare e sperimentare, sviluppando
           così una comprensione profonda e applicata delle diverse materie. In particolare, utilizzo Arduino per
-          introdurre gli studenti al creative coding, permettendo loro di realizzare progetti che combinano
+          introdurre gli studenti al creative coding, permettendo loro di realizzare Multidisciplinari che combinano
           programmazione, elettronica e arte. Attraverso Arduino, gli studenti imparano a sviluppare prototipi
           interattivi, esplorando le potenzialità della tecnologia in modo creativo e innovativo. Questa metodologia
           favorisce l’acquisizione di competenze tecniche e artistiche, stimolando la creatività e il pensiero critico.
