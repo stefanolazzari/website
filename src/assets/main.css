@@ -16,9 +16,9 @@
 
 
 .bg-image-01{
-    background-color:rgb(255, 255, 255);
+    background-color:rgb(182, 16, 16);
     background-image: url("code.png");
-    background-blend-mode:saturation;
+    background-blend-mode:hue;
     min-height: 100vh;
 }
 
