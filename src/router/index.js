@@ -2,7 +2,7 @@ import { createRouter, createMemoryHistory, createWebHistory, createWebHashHisto
 import Home from '../view/Home.vue'
 import Competenze from '../view/Competenze.vue'
 import Cv from '../view/Cv.vue'
-import Projects from '../view/Projects.vue'
+import Multidisciplinari from '../view/Multidisciplinari.vue'
 import Contatti from '../view/Contatti.vue'
 import Corsi from '../view/Corsi.vue'
 // import { VueRouter } from 'vue-router' 
@@ -31,9 +31,9 @@ const routes = [
   name: 'Cv',
   component: Cv
 },
-{ path: '/projects',
-  name: 'Projects',
-  component: Projects 
+{ path: '/Multidisciplinari',
+  name: 'Multidisciplinari',
+  component: Multidisciplinari 
 },
 { path: '/contatti', 
   name: 'Contatti',
