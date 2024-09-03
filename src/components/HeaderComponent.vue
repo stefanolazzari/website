@@ -31,7 +31,7 @@
                   <div>
                     <a target="_blank"
                       class="text-yellow-300 bg-black/70 hover:bg-pink-600 hover:text-black rounded-md px-3 py-2 text-sm font-medium"
-                      href="src/assets/Europass-sett2024.pdf">Europass</a>
+                      href="https://github.com/stefanolazzari/cv/blob/main/Europass-sett2024.pdf">Europass</a>
                   </div>
                 </div>
               </div>
