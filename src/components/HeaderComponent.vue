@@ -3,7 +3,7 @@
     <div class="bg-black/10 mx-auto px-2 sm:px-6 lg:px-8">
       <div class="relative flex h-16 items-center justify-between">
 
-        <div class="absolute inset-y-0 left-0 flex items-center sm:hidden">
+        <div class="absolute inset-y-0 left-0 flex items-center md:hidden">
           <!-- Mobile menu button-->
           <DisclosureButton
             class="relative inline-flex items-center justify-center rounded-md p-2 text-black hover:bg-yellow-300 hover:text-black focus:outline-none focus:ring-2 focus:ring-inset focus:ring-white">
@@ -15,14 +15,14 @@
         </div>
 
         
-          <div class="hidden sm:block flex-auto">
+          <div class="hidden md:block flex-auto">
             <a href="#/" class="text-yellow-300 bg-black/70 hover:bg-pink-600 hover:text-black rounded-md px-3 py-2 text-sm font-medium ">&lt/&gt</a>
           </div>
 
           <div class="flex-auto">
             <div class="flex flex-grow lg:justify-end md:justify-end sm:items-stretch sm:justify-start">
-              <div class="hidden sm:ml-6 sm:block place-items-end">
-                <div class="flex space-x-4">
+              <div class="hidden sm:ml-6 md:block place-items-end">
+                <div class="flex space-x-3">
                   <div v-for="item in navigation" :key="item.name">
                     <router-link
                       class="text-yellow-300 bg-black/70 hover:bg-pink-600 hover:text-black rounded-md px-3 py-2 text-sm font-medium"
@@ -40,7 +40,7 @@
       </div>
     </div>
 
-    <DisclosurePanel class="sm:hidden">
+    <DisclosurePanel class="md:hidden">
       <div class="space-y-4 px-2 pb-3 pt-2">
         <div v-for="item in navigation" :key="item.name">
           <div >
