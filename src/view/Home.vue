@@ -14,7 +14,7 @@ import BodyComponent from '../components/BodyComponent.vue'
       <br>
       <p>
         Il mio percorso formativo mi ha permesso di avere delle competenze trasversali che includono principalmente le nuove tecnologie.
-        L'ambito multimediale infatti integra nuove paradigmi ed esperienze che sono funzionali alla necessità di adattarsi ai rapidi cambiamenti del mondo del lavoro.
+        L'ambito multimediale infatti integra nuovi paradigmi ed esperienze che sono funzionali alla necessità di adattarsi ai rapidi cambiamenti del mondo del lavoro.
       </p>
       <br>
       <br>
