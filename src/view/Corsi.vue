@@ -8,6 +8,12 @@ import BodyComponent from "../components/BodyComponent.vue";
   <BodyComponent>
     <div >
       <div>
+        <p>
+          Le lezioni si basano su attività pratiche come la costruzione di un sito analizzando le basi
+          dell’html, css e javascript. L’utilizzo poi e di librerie e framework più specifici come vue,
+          node, laravel ecc. da la possibiltà di avere un accesso a quello che è il panorama attuale
+          dello sviluppo software.
+        </p><br>
         <p>I vari corsi da me tenuti prevedono l’approfondimento dei seguenti argomenti:</p>
         <ul class="list-disc list-inside p-5">
           <li>Html 5</li>

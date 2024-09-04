@@ -16,8 +16,8 @@
 
 
 .bg-image-01{
-    background-color:rgb(182, 16, 16);
-    background-image: url("code.png");
+    background-color:rgb(255, 221, 0);
+    background-image: url("codeRotate.png");
     background-blend-mode:hue;
     min-height: 100vh;
 }
@@ -69,4 +69,8 @@
     background-blend-mode:luminosity;
     background-position: bottom center;    
     min-height: 100vh;
+}
+.mobileButton{
+    display: block;
+    width:auto;
 }

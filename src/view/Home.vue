@@ -4,31 +4,22 @@ import BodyComponent from '../components/BodyComponent.vue'
 
 <template>
   <BodyComponent>
-    <!-- <img src="/src/assets/20220129_221200_2.jpg" alt="" width="200" style="float:left; margin:10px"> -->
-  <div>
-<br>
-    <p>
-      Le lezioni si basano su attività pratiche come la costruzione di un sito analizzando le basi
-      dell’html, css e javascript. L’utilizzo poi e di librerie e framework più specifici come vue,
-      node, laravel ecc. da la possibiltà di avere un accesso a quello che è il panorama attuale
-      dello sviluppo software.
-    </p>
-<br>
-    <p>
-      Nell’ambito del mio ruolo di docente, attribuisco grande importanza all’insegnamento
-      inclusivo, ponendo particolare attenzione agli studenti che si trovano in situazioni familiari
-      difficili o che presentano certificazioni di ADHD e Autismo. 
-    </p>
-    <br>
-    <p class="pb-20">
-      Mi impegno a creare un ambiente
-      di apprendimento che risponda alle esigenze di ogni studente, utilizzando metodologie
-      didattiche differenziate e strumenti digitali personalizzati per supportare il loro percorso
-      di crescita e apprendimento. L’obiettivo è quello di garantire a tutti gli studenti,
-      indipendentemente dalle loro difficoltà, l’accesso a un’istruzione di qualità e la possibilità
-      di esprimere il loro potenziale.
-    </p>
-    
-  </div>
+    <img src="/src/assets/20220129_221200_2.jpg" alt="" width="200" style="float:left; margin:10px">
+    <div>
+      <p>
+        Sono un insegnante di Informatica e Coding. 
+        Collaboro con enti di formazione professionale per la realizzazione di corsi specifici dedicati alle competenze digitali. 
+      </p>
+      <br>
+      <p>
+        Il mio percorso formativo mi ha permesso di avere delle competenze trasversali che includono principalmente le nuove tecnologie.
+        L'ambito multimediale infatti integra nuove paradigmi ed esperienze che sono funzionali alla necessità di adattarsi ai rapidi cambiamenti del mondo del lavoro.
+      </p>
+      <br>
+      <p class="pb-20">
+        La mia principale passione é rappesentata dal cercare di unire ambiti disciplinari diversi, come ad esempio i linguaggi di programmazione e la musica.
+        Utilizzando i più recenti strumenti di sviluppo, realizzo applicazioni che permetto agli studenti di avere una panoramica sui concetti di base dei linguaggi di pregrammazione. 
+      </p>
+    </div>
   </BodyComponent>
 </template>

@@ -8,7 +8,13 @@
           <p><a
               href="https://www.linkedin.com/in/stefano-lazzari-71ab91b6/ ">https://www.linkedin.com/in/stefano-lazzari-71ab91b6/
             </a></p><br>
+            <p><a
+              target="_blank" href="https://github.com/stefanolazzari">https://github.com/stefanolazzari
+            </a></p><br>
           <p><a href="tel:+393404789521">(+39) 3404789521</a></p>
+
+
+          
         
       </li>
     </ul>

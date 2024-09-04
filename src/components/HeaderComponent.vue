@@ -43,14 +43,13 @@
     <DisclosurePanel class="sm:hidden">
       <div class="space-y-4 px-2 pb-3 pt-2">
         <div v-for="item in navigation" :key="item.name">
-          <div active-class="menu-hl"
-            class="bg-black/70 text-yellow-300 rounded-md px-3 py-2 hover:bg-yellow-300 hover:text-pink-500 text-sm font-medium">
-            <router-link :to="item.href">{{ item.name }}</router-link>
+          <div >
+            <router-link active-class="menu-hl"
+            class="mobileButton bg-black/70 text-yellow-300 rounded-md px-3 py-2 hover:bg-yellow-300 hover:text-pink-500 text-sm font-medium" :to="item.href">{{ item.name }}</router-link>
           </div>
         </div>
-        <div
-          class="bg-black/70 text-yellow-300 rounded-md px-3 py-2 hover:bg-yellow-300 hover:text-pink-500 text-sm font-medium">
-          <a target="_blank" href="src/assets/Europass-sett2024.pdf">Europass</a>
+        <div>
+          <a class="mobileButton bg-black/70 text-yellow-300 rounded-md px-3 py-2 hover:bg-yellow-300 hover:text-pink-500 text-sm font-medium" target="_blank" href="https://github.com/stefanolazzari/cv/blob/main/Europass-sett2024.pdf">Europass</a>
         </div>
       </div>
     </DisclosurePanel>

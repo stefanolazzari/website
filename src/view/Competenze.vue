@@ -9,11 +9,15 @@ import BodyComponentVue from "../components/BodyComponent.vue";
         <p>
           Nell’ambito del mio ruolo di docente, attribuisco grande importanza all’insegnamento inclusivo, ponendo
           particolare attenzione agli studenti che si trovano in situazioni familiari difficili o che presentano
-          certificazioni di ADHD e Autismo. Mi impegno a creare un ambiente di apprendimento che risponda alle esigenze
+          certificazioni di ADHD e Autismo. 
+          <p><br>
+            Mi impegno a creare un ambiente di apprendimento che risponda alle esigenze
           di ogni studente, utilizzando metodologie didattiche differenziate e strumenti digitali personalizzati per
           supportare il loro percorso di crescita e apprendimento. L’obiettivo è quello di garantire a tutti gli
           studenti, indipendentemente dalle loro difficoltà, l’accesso a un’istruzione di qualità e la possibilità di
-          esprimere il loro potenziale. <br>
+          esprimere il loro potenziale.
+          </p>
+           <br>
 
           Nel mio approccio educativo, applico i principi della didattica STEAM (Science, Technology, Engineering, Arts,
           and Mathematics) per promuovere un apprendimento interdisciplinare e pratico. Utilizzo Multidisciplinari che combinano
