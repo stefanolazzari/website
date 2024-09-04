@@ -17,7 +17,7 @@ import BodyComponent from "../components/BodyComponent.vue";
       <li><strong>Suono:</strong> Per aggiungere un elemento audio all'installazione.</li>
     </ol>
     <br>
-    <img src="src/assets/Kinect3.jpg" alt="">
+    <img src="/src/assets/Kinect3.jpg" alt="">
     <br>
     <h3>Funzionalità Principali:</h3>
     <ol class="list-disc list-inside p-5">
@@ -43,7 +43,7 @@ import BodyComponent from "../components/BodyComponent.vue";
       </li>
     </ol>
     <br>
-    <img src="src/assets/Kinect2.jpg" alt="">
+    <img src="/src/assets/Kinect2.jpg" alt="">
     <br>
     <h3>Struttura del Codice</h3>
     <br>
@@ -69,7 +69,7 @@ import BodyComponent from "../components/BodyComponent.vue";
       </li>
     </ul>
     <br>
-    <img src="src/assets/KinectDrum1.jpg" alt="">
+    <img src="/src/assets/KinectDrum1.jpg" alt="">
     <br>
     <h3>Esperienza Utente:</h3>
     <br>
@@ -77,35 +77,6 @@ import BodyComponent from "../components/BodyComponent.vue";
       loro corpo. Possono sperimentare con colori, movimenti e suoni, trasformando lo spazio circostante in una tela di
       espressione artistica interattiva.</p>
 
-
-    <!-- <div>
-
-      <div class="p-8 flex flex-1 items-center justify-center">
-        <iframe width="560" height="315"
-          src="https://www.youtube.com/embed/videoseries?si=j3JHJnCYcox3bmgz&amp;list=PLvOBFN03LY9Qot3NxryszmQl1qZZ4r7gP"
-          title="YouTube video player" frameborder="0"
-          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-          allowfullscreen></iframe>
-      </div>
-      <div class="p-8 flex flex-1 items-center justify-center">
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/xig1AzfaYv8?si=7zhhWSENVkuntrd0"
-          title="YouTube video player" frameborder="0"
-          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-          allowfullscreen></iframe>
-      </div>
-      <div class="p-8 flex flex-1 items-center justify-center">
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/tKUDLLA1Eek?si=0faITJIktKRvefRX"
-          title="YouTube video player" frameborder="0"
-          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-          allowfullscreen></iframe>
-      </div>
-      <div class="p-8 flex flex-1 items-center justify-center">
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/BMduCeYiBQc?si=Wlz_t0IB5ce_z560"
-          title="YouTube video player" frameborder="0"
-          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-          allowfullscreen></iframe>
-      </div>
-    </div> -->
 
   </BodyComponent>
 
