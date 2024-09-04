@@ -73,7 +73,7 @@ import { Bars3Icon, BellIcon, XMarkIcon } from '@heroicons/vue/24/outline'
 const navigation = [
   { name: 'Home', href: '/', current: true },
   { name: 'Competenze', href: '/competenze', current: false },
-  { name: 'Multidisciplinari', href: '/multidisciplinari', current: false },
+  { name: 'Progetti Multidisciplinari', href: '/multidisciplinari', current: false },
   { name: 'Contatti', href: '/contatti', current: false },
   { name: 'Corsi', href: '/corsi', current: false }
 ]
