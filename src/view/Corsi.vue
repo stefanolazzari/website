@@ -10,7 +10,7 @@ import BodyComponent from "../components/BodyComponent.vue";
       <div>
         <p>
           Le lezioni si basano su attività pratiche come la costruzione di un sito analizzando le basi
-          dell’html, css e javascript. L’utilizzo poi e di librerie e framework più specifici come vue,
+          dell’html, css e javascript. L’utilizzo poi di librerie e framework più specifici come vue,
           node, laravel ecc. da la possibiltà di avere un accesso a quello che è il panorama attuale
           dello sviluppo software.
         </p><br>
@@ -31,6 +31,8 @@ import BodyComponent from "../components/BodyComponent.vue";
           <li>Video editing</li>
           <li>Arduino</li>
         </ul>
+
+        <p>Per lo sviluppo delle competenze digitali</p>
         <ul class="list-disc list-inside p-5">
           <li>Microsoft 365 (preparazione certificazione ECDL)</li>
           <li>WordPress</li>

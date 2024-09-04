@@ -18,7 +18,7 @@ import BodyComponent from '../components/BodyComponent.vue'
       <br>
       <p class="pb-20">
         La mia principale passione é rappesentata dal cercare di unire ambiti disciplinari diversi, come ad esempio i linguaggi di programmazione e la musica.
-        Utilizzando i più recenti strumenti di sviluppo, realizzo applicazioni che permetto agli studenti di avere una panoramica sui concetti di base dei linguaggi di pregrammazione. 
+        Utilizzando i più recenti strumenti di sviluppo, realizzo applicazioni che permetto agli studenti di avere una panoramica sui concetti di base dei linguaggi di programmazione. 
       </p>
     </div>
   </BodyComponent>
