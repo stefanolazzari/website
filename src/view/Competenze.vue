@@ -39,7 +39,12 @@ import BodyComponentVue from "../components/BodyComponent.vue";
         <ul class="list-disc list-inside p-5">
           <li>HTML5</li>
           <li>CCS3</li>
-          <li>Javascript(Vue,Node)</li>
+          <li>Javascript</li>
+          <li>Quasar.js</li>
+          <li>Firebase</li>
+          <li>Tailwind CSS</li>
+          <li>Vue.js</li>
+          <li>Node.js</li>
           <li>PHP(Laravel)</li>
           <li>Sql</li>
           <li>C++</li>
