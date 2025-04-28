@@ -16,7 +16,7 @@
 
         
           <div class="hidden md:block flex-auto">
-            <a href="#/" class="text-yellow-300 bg-black/70 hover:bg-pink-600 hover:text-black rounded-md px-3 py-2 text-sm font-medium ">&lt/&gt</a>
+            <a href="#/" class="text-yellow-300 bg-black/70 hover:bg-pink-600 hover:text-black rounded-md px-3 py-2 text-sm font-light ">&lt/&gt</a>
           </div>
 
           <div class="flex-auto">
@@ -25,12 +25,12 @@
                 <div class="flex space-x-3">
                   <div v-for="item in navigation" :key="item.name">
                     <router-link
-                      class="text-yellow-300 bg-black/70 hover:bg-pink-600 hover:text-black rounded-md px-3 py-2 text-sm font-medium"
+                      class="text-yellow-300 bg-black/70 hover:bg-pink-600 hover:text-black rounded-md px-3 py-2 text-sm font-light"
                       active-class="menu-hl" :to="item.href">{{ item.name }}</router-link>
                   </div>
                   <div>
                     <a target="_blank"
-                      class="text-yellow-300 bg-black/70 hover:bg-pink-600 hover:text-black rounded-md px-3 py-2 text-sm font-medium"
+                      class="text-yellow-300 bg-black/70 hover:bg-pink-600 hover:text-black rounded-md px-3 py-2 text-sm font-light"
                       href="https://github.com/stefanolazzari/cv/blob/main/Europass-sett2024.pdf">Europass</a>
                   </div>
                 </div>
@@ -45,11 +45,11 @@
         <div v-for="item in navigation" :key="item.name">
           <div >
             <router-link active-class="menu-hl"
-            class="mobileButton bg-black/70 text-yellow-300 rounded-md px-3 py-2 hover:bg-yellow-300 hover:text-pink-500 text-sm font-medium" :to="item.href">{{ item.name }}</router-link>
+            class="mobileButton bg-black/70 text-yellow-300 rounded-md px-3 py-2 hover:bg-yellow-300 hover:text-pink-500 text-sm font-light" :to="item.href">{{ item.name }}</router-link>
           </div>
         </div>
         <div>
-          <a class="mobileButton bg-black/70 text-yellow-300 rounded-md px-3 py-2 hover:bg-yellow-300 hover:text-pink-500 text-sm font-medium" target="_blank" href="https://github.com/stefanolazzari/cv/blob/main/Europass-sett2024.pdf">Europass</a>
+          <a class="mobileButton bg-black/70 text-yellow-300 rounded-md px-3 py-2 hover:bg-yellow-300 hover:text-pink-500 text-sm font-light" target="_blank" href="https://github.com/stefanolazzari/cv/blob/main/Europass-sett2024.pdf">Europass</a>
         </div>
       </div>
     </DisclosurePanel>

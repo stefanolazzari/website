@@ -29,31 +29,6 @@
   </script>
   
   <style scoped>
-  .privacy-banner {
-    position: fixed;
-    bottom: 0;
-    left: 0;
-    right: 0;
-    background-color: #000;
-    color: #fff;
-    padding: 10px 20px;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    font-family: Arial, sans-serif;
-    z-index: 1000;
-    font-size: 14px;
-    border-top: 2px solid #4CAF50;
-  }
-  
-  .close-btn {
-    background: none;
-    border: none;
-    color: #fff;
-    font-size: 20px;
-    cursor: pointer;
-    padding: 0;
-    margin-left: 10px;
-  }
+
   </style>
   

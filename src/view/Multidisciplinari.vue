@@ -17,7 +17,7 @@ import BodyComponent from "../components/BodyComponent.vue";
       <li><strong>Suono:</strong> Per aggiungere un elemento audio all'installazione.</li>
     </ol>
     <br>
-    <img src="/src/assets/Kinect3.jpg" alt="">
+    <img src="/src/assets/Kinect3.jpg" alt="" class="mx-auto rounded-lg shadow-md filter grayscale transition-all duration-500 ease-in-out hover:grayscale-0 hover:scale-105">
     <br>
     <h3>Funzionalità Principali:</h3>
     <ol class="list-disc list-inside p-5">
@@ -43,7 +43,7 @@ import BodyComponent from "../components/BodyComponent.vue";
       </li>
     </ol>
     <br>
-    <img src="/src/assets/Kinect2.jpg" alt="">
+    <img src="/src/assets/Kinect2.jpg" alt="" class="mx-auto rounded-lg shadow-md filter grayscale transition-all duration-500 ease-in-out hover:grayscale-0 hover:scale-105">
     <br>
     <h3>Struttura del Codice</h3>
     <br>
@@ -69,7 +69,7 @@ import BodyComponent from "../components/BodyComponent.vue";
       </li>
     </ul>
     <br>
-    <img src="/src/assets/KinectDrum1.jpg" alt="">
+    <img src="/src/assets/KinectDrum1.jpg" alt="" class="mx-auto rounded-lg shadow-md filter grayscale transition-all duration-500 ease-in-out hover:grayscale-0 hover:scale-105">
     <br>
     <h3>Esperienza Utente:</h3>
     <br>
