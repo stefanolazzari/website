@@ -31,7 +31,7 @@
                   <div>
                     <a target="_blank"
                       class="text-yellow-300 bg-black/70 hover:bg-pink-600 hover:text-black rounded-md px-3 py-2 text-sm font-light"
-                      href="src/assets/CV_ Europass_LazzariStefano_maggio2025.pdf">Europass</a>
+                      href="https://github.com/stefanolazzari/cv/blob/main/CV_%20Europass_LazzariStefano_maggio2025.pdf">Europass</a>
                   </div>
                 </div>
               </div>
@@ -49,7 +49,7 @@
           </div>
         </div>
         <div>
-          <a class="mobileButton bg-black/70 text-yellow-300 rounded-md px-3 py-2 hover:bg-yellow-300 hover:text-pink-500 text-sm font-light" target="_blank" href="src/assets/CV_ Europass_LazzariStefano_maggio2025.pdf">Europass</a>
+          <a class="mobileButton bg-black/70 text-yellow-300 rounded-md px-3 py-2 hover:bg-yellow-300 hover:text-pink-500 text-sm font-light" target="_blank" href="https://github.com/stefanolazzari/cv/blob/main/CV_%20Europass_LazzariStefano_maggio2025.pdf">Europass</a>
         </div>
       </div>
     </DisclosurePanel>
