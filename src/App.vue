@@ -2,6 +2,8 @@
 import HeaderComponent from './components/HeaderComponent.vue'
 import PrivacyBanner from './components/PrivacyBanner.vue'
 import FooterComponent from './components/FooterComponent.vue'
+
+
 </script>
 
 <template>

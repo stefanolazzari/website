@@ -5,8 +5,7 @@ import Cv from '../view/Cv.vue'
 import Multidisciplinari from '../view/Multidisciplinari.vue'
 import Contatti from '../view/Contatti.vue'
 import Corsi from '../view/Corsi.vue'
-// import { VueRouter } from 'vue-router' 
-// import routes from './routes'
+import Login from '../view/Login.vue'
 
 
 // 1. Define route components.
@@ -43,6 +42,9 @@ const routes = [
   name: 'Corsi',
   component: Corsi 
 },
+{ path: '/login', 
+  name: 'Login', 
+  component: Login },
 ];
 
 // 3. Create the router instance and pass the `routes` option

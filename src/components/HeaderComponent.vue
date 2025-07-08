@@ -75,6 +75,8 @@ const navigation = [
   { name: 'Competenze', href: '/competenze', current: false },
   { name: 'Progetti Multidisciplinari', href: '/multidisciplinari', current: false },
   { name: 'Contatti', href: '/contatti', current: false },
-  { name: 'Corsi', href: '/corsi', current: false }
+  { name: 'Corsi', href: '/corsi', current: false },
+  { name: 'Login', href: '/login', current: false },
+  { name: 'Logout', href: '/logout', current: false }
 ]
 </script>
